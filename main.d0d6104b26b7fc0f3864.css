@@ -8904,6 +8904,7 @@ a:hover {
   .text-color-main {
     background-image: linear-gradient(135deg, #02aab0, #00cdac);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent;
   }
@@ -8948,6 +8949,7 @@ a:hover {
   .cta-btn--hero {
     background-image: linear-gradient(135deg, #02aab0, #00cdac);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent;
   }
